@@ -1,0 +1,13 @@
+name: vlc-cr
+version: 0.1.0
+
+authors:
+  - D. Shwagginz <93965353+D-Shwagginz@users.noreply.github.com>
+
+targets:
+  vlc-cr:
+    main: src/vlc-cr.cr
+
+crystal: 1.9.2
+
+license: MIT
